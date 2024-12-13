@@ -42,7 +42,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashuPatel&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/3D/AashuPatel)
+[![3D Contribution Graph](https://skyline.github.com/AashuPatel/2024.png)](https://skyline.github.com/AashuPatel/2024)
+
 
 ---
 
