@@ -42,6 +42,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashuPatel&layout=compact&theme=radical)
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/3D/AashuPatel)
+
 ---
 
 ## 📫 How to Reach Me
