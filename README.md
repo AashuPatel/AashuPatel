@@ -32,7 +32,6 @@
 
 🔐 **Password Manager**: A secure and user-friendly password manager crafted with the **MERN stack**.
 
-🧠 **EEG Classification Project**: Machine learning model for classifying ADHD, FMD, and Healthy EEG data.
 
 ---
 
@@ -42,7 +41,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashuPatel&layout=compact&theme=radical)
 
-[![3D Contribution Graph](https://skyline.github.com/AashuPatel/2024.png)](https://skyline.github.com/AashuPatel/2024)
 
 
 ---
