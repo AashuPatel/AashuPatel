@@ -49,8 +49,8 @@
 
 ## 📫 How to Reach Me
 
-📩 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🌐 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📩 **Email**: [aashutoshpatelownstudy@gmail.com](mailto:aashutoshpatelownstudy@gmail.com)  
+🌐 **LinkedIn**: [https://www.linkedin.com/in/aashutosh-patel/](https://www.linkedin.com/in/aashutosh-patel/)
 
 ---
 
