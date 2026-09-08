@@ -114,17 +114,24 @@ flowchart LR
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                       GITHUB STATS                             -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
+<!-- 
 ## `~/github-analytics`
 
-<p align="center">
+<p align="center"> 
+-->
   <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=AashuPatel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=e6edf3&ring_color=00f7ff" /> -->
+
+  <!-- 
   <img height="180" src="https://streak-stats.demolab.com?user=AashuPatel&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=e6edf3&currStreakNum=e6edf3&dates=8b949e&sideNums=e6edf3" />
 </p>
 
 <p align="center">
+
+-->
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashuPatel&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=e6edf3&langs_count=8" /> -->
   <!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=AashuPatel&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" /> -->
+
+  <!-- 
 </p>
 
 <p align="center">
@@ -132,6 +139,8 @@ flowchart LR
 </p>
 
 <br/>
+
+-->
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                          SNAKE                                 -->
@@ -146,7 +155,7 @@ flowchart LR
 ## `~/connect`
 
 <p align="center">
-  <a href="mailto:aashutoshpatelownstudy@gmail.com">
+  <a href="mailto:aashu.ships@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117" />
   </a>
   <a href="https://www.linkedin.com/in/aashutosh-patel/">
